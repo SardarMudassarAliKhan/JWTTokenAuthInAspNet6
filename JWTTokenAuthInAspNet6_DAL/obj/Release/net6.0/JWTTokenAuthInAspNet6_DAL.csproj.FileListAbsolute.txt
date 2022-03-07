@@ -1,0 +1,14 @@
+F:\Software Programming Practice\ASP.NET FRAMEWORK SPECIAL\2022-POC-PROJECT\Asp.NET_Architecture\JWTTokenAuthInAspNet6\JWTTokenAuthInAspNet6_DAL\bin\Release\net6.0\JWTTokenAuthInAspNet6_DAL.deps.json
+F:\Software Programming Practice\ASP.NET FRAMEWORK SPECIAL\2022-POC-PROJECT\Asp.NET_Architecture\JWTTokenAuthInAspNet6\JWTTokenAuthInAspNet6_DAL\bin\Release\net6.0\JWTTokenAuthInAspNet6_DAL.runtimeconfig.json
+F:\Software Programming Practice\ASP.NET FRAMEWORK SPECIAL\2022-POC-PROJECT\Asp.NET_Architecture\JWTTokenAuthInAspNet6\JWTTokenAuthInAspNet6_DAL\bin\Release\net6.0\JWTTokenAuthInAspNet6_DAL.dll
+F:\Software Programming Practice\ASP.NET FRAMEWORK SPECIAL\2022-POC-PROJECT\Asp.NET_Architecture\JWTTokenAuthInAspNet6\JWTTokenAuthInAspNet6_DAL\bin\Release\net6.0\ref\JWTTokenAuthInAspNet6_DAL.dll
+F:\Software Programming Practice\ASP.NET FRAMEWORK SPECIAL\2022-POC-PROJECT\Asp.NET_Architecture\JWTTokenAuthInAspNet6\JWTTokenAuthInAspNet6_DAL\bin\Release\net6.0\JWTTokenAuthInAspNet6_DAL.pdb
+F:\Software Programming Practice\ASP.NET FRAMEWORK SPECIAL\2022-POC-PROJECT\Asp.NET_Architecture\JWTTokenAuthInAspNet6\JWTTokenAuthInAspNet6_DAL\obj\Release\net6.0\JWTTokenAuthInAspNet6_DAL.csproj.AssemblyReference.cache
+F:\Software Programming Practice\ASP.NET FRAMEWORK SPECIAL\2022-POC-PROJECT\Asp.NET_Architecture\JWTTokenAuthInAspNet6\JWTTokenAuthInAspNet6_DAL\obj\Release\net6.0\JWTTokenAuthInAspNet6_DAL.GeneratedMSBuildEditorConfig.editorconfig
+F:\Software Programming Practice\ASP.NET FRAMEWORK SPECIAL\2022-POC-PROJECT\Asp.NET_Architecture\JWTTokenAuthInAspNet6\JWTTokenAuthInAspNet6_DAL\obj\Release\net6.0\JWTTokenAuthInAspNet6_DAL.AssemblyInfoInputs.cache
+F:\Software Programming Practice\ASP.NET FRAMEWORK SPECIAL\2022-POC-PROJECT\Asp.NET_Architecture\JWTTokenAuthInAspNet6\JWTTokenAuthInAspNet6_DAL\obj\Release\net6.0\JWTTokenAuthInAspNet6_DAL.AssemblyInfo.cs
+F:\Software Programming Practice\ASP.NET FRAMEWORK SPECIAL\2022-POC-PROJECT\Asp.NET_Architecture\JWTTokenAuthInAspNet6\JWTTokenAuthInAspNet6_DAL\obj\Release\net6.0\JWTTokenAuthInAspNet6_DAL.csproj.CoreCompileInputs.cache
+F:\Software Programming Practice\ASP.NET FRAMEWORK SPECIAL\2022-POC-PROJECT\Asp.NET_Architecture\JWTTokenAuthInAspNet6\JWTTokenAuthInAspNet6_DAL\obj\Release\net6.0\JWTTokenAuthInAspNet6_DAL.dll
+F:\Software Programming Practice\ASP.NET FRAMEWORK SPECIAL\2022-POC-PROJECT\Asp.NET_Architecture\JWTTokenAuthInAspNet6\JWTTokenAuthInAspNet6_DAL\obj\Release\net6.0\ref\JWTTokenAuthInAspNet6_DAL.dll
+F:\Software Programming Practice\ASP.NET FRAMEWORK SPECIAL\2022-POC-PROJECT\Asp.NET_Architecture\JWTTokenAuthInAspNet6\JWTTokenAuthInAspNet6_DAL\obj\Release\net6.0\JWTTokenAuthInAspNet6_DAL.pdb
+F:\Software Programming Practice\ASP.NET FRAMEWORK SPECIAL\2022-POC-PROJECT\Asp.NET_Architecture\JWTTokenAuthInAspNet6\JWTTokenAuthInAspNet6_DAL\obj\Release\net6.0\JWTTokenAuthInAspNet6_DAL.genruntimeconfig.cache

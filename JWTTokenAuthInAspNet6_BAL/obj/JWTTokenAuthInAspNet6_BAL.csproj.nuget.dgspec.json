@@ -1,0 +1,184 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\Software Programming Practice\\ASP.NET FRAMEWORK SPECIAL\\2022-POC-PROJECT\\Asp.NET_Architecture\\JWTTokenAuthInAspNet6\\JWTTokenAuthInAspNet6_BAL\\JWTTokenAuthInAspNet6_BAL.csproj": {}
+  },
+  "projects": {
+    "F:\\Software Programming Practice\\ASP.NET FRAMEWORK SPECIAL\\2022-POC-PROJECT\\Asp.NET_Architecture\\JWTTokenAuthInAspNet6\\JWTTokenAuthInAspNet6_BAL\\JWTTokenAuthInAspNet6_BAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Software Programming Practice\\ASP.NET FRAMEWORK SPECIAL\\2022-POC-PROJECT\\Asp.NET_Architecture\\JWTTokenAuthInAspNet6\\JWTTokenAuthInAspNet6_BAL\\JWTTokenAuthInAspNet6_BAL.csproj",
+        "projectName": "JWTTokenAuthInAspNet6_BAL",
+        "projectPath": "F:\\Software Programming Practice\\ASP.NET FRAMEWORK SPECIAL\\2022-POC-PROJECT\\Asp.NET_Architecture\\JWTTokenAuthInAspNet6\\JWTTokenAuthInAspNet6_BAL\\JWTTokenAuthInAspNet6_BAL.csproj",
+        "packagesPath": "C:\\Users\\MudassirAliKhan\\.nuget\\packages\\",
+        "outputPath": "F:\\Software Programming Practice\\ASP.NET FRAMEWORK SPECIAL\\2022-POC-PROJECT\\Asp.NET_Architecture\\JWTTokenAuthInAspNet6\\JWTTokenAuthInAspNet6_BAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\MudassirAliKhan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "F:\\Software Programming Practice\\ASP.NET FRAMEWORK SPECIAL\\2022-POC-PROJECT\\Asp.NET_Architecture\\JWTTokenAuthInAspNet6\\JWTTokenAuthInAspNet6_DAL\\JWTTokenAuthInAspNet6_DAL.csproj": {
+                "projectPath": "F:\\Software Programming Practice\\ASP.NET FRAMEWORK SPECIAL\\2022-POC-PROJECT\\Asp.NET_Architecture\\JWTTokenAuthInAspNet6\\JWTTokenAuthInAspNet6_DAL\\JWTTokenAuthInAspNet6_DAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            },
+            "jose-jwt": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\Software Programming Practice\\ASP.NET FRAMEWORK SPECIAL\\2022-POC-PROJECT\\Asp.NET_Architecture\\JWTTokenAuthInAspNet6\\JWTTokenAuthInAspNet6_DAL\\JWTTokenAuthInAspNet6_DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Software Programming Practice\\ASP.NET FRAMEWORK SPECIAL\\2022-POC-PROJECT\\Asp.NET_Architecture\\JWTTokenAuthInAspNet6\\JWTTokenAuthInAspNet6_DAL\\JWTTokenAuthInAspNet6_DAL.csproj",
+        "projectName": "JWTTokenAuthInAspNet6_DAL",
+        "projectPath": "F:\\Software Programming Practice\\ASP.NET FRAMEWORK SPECIAL\\2022-POC-PROJECT\\Asp.NET_Architecture\\JWTTokenAuthInAspNet6\\JWTTokenAuthInAspNet6_DAL\\JWTTokenAuthInAspNet6_DAL.csproj",
+        "packagesPath": "C:\\Users\\MudassirAliKhan\\.nuget\\packages\\",
+        "outputPath": "F:\\Software Programming Practice\\ASP.NET FRAMEWORK SPECIAL\\2022-POC-PROJECT\\Asp.NET_Architecture\\JWTTokenAuthInAspNet6\\JWTTokenAuthInAspNet6_DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\MudassirAliKhan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

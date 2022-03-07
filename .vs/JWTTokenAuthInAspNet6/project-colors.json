@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7036f8b4-2ba6-4779-b438-f7d2f3cd071f": {
+      "ProjectGuid": "7036f8b4-2ba6-4779-b438-f7d2f3cd071f",
+      "DisplayName": "JWTTokenAuthInAspNet6",
+      "ColorIndex": 0
+    },
+    "7bdd4d8f-0501-4ef1-a091-33c722ad2dd6": {
+      "ProjectGuid": "7bdd4d8f-0501-4ef1-a091-33c722ad2dd6",
+      "DisplayName": "JWTTokenAuthInAspNet6_BAL",
+      "ColorIndex": 1
+    },
+    "307fbdb5-a87c-45ce-a225-6d7f20227483": {
+      "ProjectGuid": "307fbdb5-a87c-45ce-a225-6d7f20227483",
+      "DisplayName": "JWTTokenAuthInAspNet6_DAL",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 3
+}
